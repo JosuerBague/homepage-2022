@@ -34,9 +34,9 @@ Send me a message on one of my links, I'll get back to you asap:
 2020 - Retired from seafaring. Pursued coding and programming.
 
 2021 - Created first Javascript project, <a href="https://joshdagat.github.io/rock-paper-lobster/">rock-paper-lobster</a>.<br>
-     &emsp;&emsp;&ensp;- Created <a href="https://joshdagat.github.io/Etch-A-Sketch/">etch-a-sketch</a>.
-     &emsp;&emsp;&ensp;- Created <a href="https://joshdagat.github.io/Etch-A-Sketch/">etch-a-sketch</a>.
-     &emsp;&emsp;&ensp;- Created a <a href="https://joshdagat.github.io/Calculator/">calculator</a>.
+     &emsp;&emsp;&ensp;- Created <a href="https://joshdagat.github.io/Etch-A-Sketch/">etch-a-sketch</a>.<br>
+     &emsp;&emsp;&ensp;- Created <a href="https://joshdagat.github.io/Etch-A-Sketch/">etch-a-sketch</a>.<br>
+     &emsp;&emsp;&ensp;- Created a <a href="https://joshdagat.github.io/Calculator/">calculator</a>.<br>
 
 2022 - Created my first React application. <a href="https://joshdagat.github.io/Pomodoro/">Pomodoro counter</a>
 
