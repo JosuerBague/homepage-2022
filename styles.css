@@ -71,6 +71,8 @@ body {
 
 /* Contact info styles */
 
+
+
 .contact-info__header,
 .contact-info__sub-header {
   text-align: center;
@@ -96,6 +98,7 @@ body {
 
 .contact-info__block--center {
   justify-content: center;
+
 }
 
 .contact-info__item {
@@ -127,11 +130,15 @@ body {
 
 .contact-info__avatar {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border: 3px solid;
   border-color: var(--text-decoration-color);
+}
+
+.my_avatar>img {
+  margin: 50px auto 0;
 }
 
 /* Intro and Skills Styles */
