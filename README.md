@@ -40,4 +40,15 @@ Send me a message on one of my links, I'll get back to you asap:
 
 2022 - Created my first React application. <a href="https://joshdagat.github.io/Pomodoro/">Pomodoro counter</a>
 
+### Jokes To Keep My Sanity
+<img src="https://i.pinimg.com/564x/4f/54/29/4f5429df5ea6361fa8d3f08dfcdccdf9--programmer-humor-computer-engineering.jpg" width=33% display/>
+<img src="https://i.pinimg.com/736x/8f/35/28/8f35281e742e71be09697e7e6789b819.jpg" width=33%/>
+<img src="https://miro.medium.com/max/1096/1*eYw0R0hVszGqyWwUY7k1bg.png" width=33%/>
+
+
+
+
+
+
+
 
