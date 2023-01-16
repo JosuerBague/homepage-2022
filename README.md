@@ -22,3 +22,22 @@ Send me a message on one of my links, I'll get back to you asap:
 - <a href="mailto:josuer.online.work@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
+
+### Timeline
+
+2015 - Palompon Institute of Technology. Finished Academic Pre-requsites for Maritime Studies.
+
+2016 - Accepted into United Marine Training Center. First onboard experience.
+
+2018 - Finished cadetship and promoted to Third Officer.
+
+2020 - Retired from seafaring. Pursued coding and programming.
+
+2021 - Created first Javascript project, <a href="https://joshdagat.github.io/rock-paper-lobster/">rock-paper-lobster</a>.<br>
+     &emsp;&emsp;&ensp;- Created <a href="https://joshdagat.github.io/Etch-A-Sketch/">etch-a-sketch</a>.
+     &emsp;&emsp;&ensp;- Created <a href="https://joshdagat.github.io/Etch-A-Sketch/">etch-a-sketch</a>.
+     &emsp;&emsp;&ensp;- Created a <a href="https://joshdagat.github.io/Calculator/">calculator</a>.
+
+2022 - Created my first React application. <a href="https://joshdagat.github.io/Pomodoro/">Pomodoro counter</a>
+
+
