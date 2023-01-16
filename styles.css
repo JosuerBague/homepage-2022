@@ -294,3 +294,22 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.additional-info__favorite-shows-image {
+  width: 200px;
+  aspect-ratio: 1/1;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.additional-info__favorite-shows-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.additional-info__favorite-shows-sub-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
